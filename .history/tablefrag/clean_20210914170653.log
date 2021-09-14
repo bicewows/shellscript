@@ -1,0 +1,1233 @@
+111111
+
+[2021-09-03 15:03:09] ------------------------------------------1/88
+[2021-09-03 15:03:09] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-03 15:03:09] Clean start...
+[2021-09-03 15:03:09] clean start time:2021-09-03 15:03:09
+[2021-09-03 15:03:09] Clean start num rows:2
+[2021-09-03 15:03:09] Clean start table blocks:1
+[2021-09-03 15:03:09] Clean start row_movement:DISABLED
+[2021-09-03 15:03:09] Clean start tab_size:0.0
+0 GB
+[2021-09-03 15:03:09] Clean start objects_invalid:0
+[2021-09-03 15:03:09] Clean sql running...
+[2021-09-03 15:03:09] Clean table stat gathering...
+[2021-09-03 15:03:10] Clean end...
+[2021-09-03 15:03:10] Clean end time:2021-09-03 15:03:09
+[2021-09-03 15:03:10] Clean end num rows:2
+[2021-09-03 15:03:10] Clean end table blocks:1
+[2021-09-03 15:03:10] Clean end row_movement:DISABLED
+[2021-09-03 15:03:10] Clean end tab_size:0.00 GB
+[2021-09-03 15:03:10] Clean end objects_invalid:0
+[2021-09-03 15:03:10] Clean summary...
+[2021-09-03 15:03:10] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-03 15:03:10] [033;1mClean Table Size: 0 GB[0m
+[2021-09-03 15:03:10] [033;1mClean Elapsed: 0 s[0m
+[2021-09-03 15:03:10] Clean Complete...
+[2021-09-03 15:03:21] ------------------------------------------2/88
+[2021-09-03 15:03:21] Table Owner :MYTHREE  Table Name :T_OBJECTS
+[2021-09-03 15:03:21] Clean start...
+[2021-09-03 15:03:21] clean start time:2021-09-03 15:03:21
+[2021-09-03 15:03:21] Clean start num rows:1380496
+[2021-09-03 15:03:21] Clean start table blocks:19632
+[2021-09-03 15:03:21] Clean start row_movement:DISABLED
+[2021-09-03 15:03:21] Clean start tab_size:0.15 GB
+[2021-09-03 15:03:21] Clean start objects_invalid:0
+[2021-09-03 15:03:21] Clean sql running...
+[2021-09-03 15:03:21] Clean table stat gathering...
+[2021-09-03 15:03:24] Clean end...
+[2021-09-03 15:03:24] Clean end time:2021-09-03 15:03:24
+[2021-09-03 15:03:24] Clean end num rows:1380496
+[2021-09-03 15:03:24] Clean end table blocks:19632111111
+[2021-09-03 15:03:24] Clean end row_movement:DISABLED
+[2021-09-03 15:03:24] Clean end tab_size:0.15 GB
+[2021-09-03 15:03:24] Clean end objects_invalid:0
+[2021-09-03 15:03:24] Clean summary...
+[2021-09-03 15:03:24] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-03 15:03:24] [033;1mClean Table Size: 0 GB[0m
+[2021-09-03 15:03:24] [033;1mClean Elapsed: 3 s[0m
+[2021-09-03 15:03:24] Clean Complete...
+[2021-09-03 15:03:35] ------------------------------------------3/88
+[2021-09-03 15:03:35] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-03 15:03:35] Clean start...
+[2021-09-03 15:03:35] clean start time:2021-09-03 15:03:35
+[2021-09-03 15:03:35] Clean start num rows:1380496
+[2021-09-03 15:03:35] Clean start table blocks:19896
+[2021-09-03 15:03:35] Clean start row_movement:DISABLED
+[2021-09-03 15:03:35] Clean start tab_size:0.15 GB
+[2021-09-03 15:03:35] Clean start objects_invalid:0
+[2021-09-03 15:03:35] Clean sql running...
+[2021-09-03 15:03:35] Clean table stat gathering...
+[2021-09-03 15:03:37] Clean end...
+[2021-09-03 15:03:37] Clean end time:2021-09-03 15:03:37
+[2021-09-03 15:03:37] Clean end num rows:1380496
+[2021-09-03 15:03:37] Clean end table blocks:19896
+[2021-09-03 15:03:37] Clean end row_movement:DISABLED
+[2021-09-03 15:03:37] Clean end tab_size:0.15 GB
+[2021-09-03 15:03:37] Clean end objects_invalid:0
+[2021-09-03 15:03:37] Clean summary...
+[2021-09-03 15:03:37] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-03 15:03:37] [033;1mClean Table Size: 0 GB[0m
+[2021-09-03 15:03:37] [033;1mClean Elapsed: 2 s[0m
+[2021-09-03 15:03:37] Clean Complete...
+[2021-09-03 15:03:48] ------------------------------------------4/88
+[2021-09-03 15:03:48] Table Owner :MYTHREE  Table Name :T
+[2021-09-03 15:03:48] Clean start...
+[2021-09-03 15:03:48] clean start time:2021-09-03 15:03:48
+[2021-09-03 15:03:48] Clean start num rows:1380496
+[2021-09-03 15:03:48] Clean start table blocks:19632
+[2021-09-03 15:03:48] Clean start row_movement:DISABLED
+[2021-09-03 15:03:48] Clean start tab_size:0.15 GB
+[2021-09-03 15:03:48] Clean start objects_invalid:0
+[2021-09-03 15:03:48] Clean sql running...
+[2021-09-03 15:03:48] Clean table stat gathering...
+[2021-09-06 17:29:28] ------------------------------------------1/88
+[2021-09-06 17:29:28] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-06 17:29:28] Clean start...
+[2021-09-06 17:29:28] clean start time:2021-09-06 17:29:28
+[2021-09-06 17:29:28] Clean start num rows:2
+[2021-09-06 17:29:28] Clean start table blocks:1
+[2021-09-06 17:29:28] Clean start row_movement:DISABLED
+[2021-09-06 17:29:28] Clean start tab_size:0.00 GB
+[2021-09-06 17:29:28] Clean start objects_invalid:0
+[2021-09-06 17:29:28] Clean sql running...
+[2021-09-06 17:29:28] Clean table stat gathering...
+[2021-09-06 17:29:29] Clean end...
+[2021-09-06 17:29:29] Clean end time:2021-09-06 17:29:28
+[2021-09-06 17:29:29] Clean end num rows:2
+[2021-09-06 17:29:29] Clean end table blocks:1
+[2021-09-06 17:29:29] Clean end row_movement:DISABLED
+[2021-09-06 17:29:29] Clean end tab_size:0.00 GB
+[2021-09-06 17:29:29] Clean end objects_invalid:0
+[2021-09-06 17:29:29] Clean summary...
+[2021-09-06 17:29:29] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-06 17:29:29] [033;1mClean Table Size: 0 GB[0m
+[2021-09-06 17:29:29] [033;1mClean Elapsed: 0 s[0m
+[2021-09-06 17:29:29] Clean Complete...
+[2021-09-06 17:29:45] ------------------------------------------1/88
+[2021-09-06 17:29:45] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-06 17:29:45] Clean start...
+[2021-09-06 17:29:45] clean start time:2021-09-06 17:29:45
+[2021-09-06 17:29:45] Clean start num rows:2
+[2021-09-06 17:29:45] Clean start table blocks:1
+[2021-09-06 17:29:45] Clean start row_movement:DISABLED
+[2021-09-06 17:29:45] Clean start tab_size:0.00 GB
+[2021-09-06 17:29:45] Clean start objects_invalid:0
+[2021-09-06 17:29:45] Clean sql running...
+[2021-09-06 17:29:45] Clean table stat gathering...
+[2021-09-06 17:29:46] Clean end...
+[2021-09-06 17:29:46] Clean end time:2021-09-06 17:29:46
+[2021-09-06 17:29:46] Clean end num rows:2
+[2021-09-06 17:29:46] Clean end table blocks:1
+[2021-09-06 17:29:46] Clean end row_movement:DISABLED
+[2021-09-06 17:29:46] Clean end tab_size:0.00 GB
+[2021-09-06 17:29:46] Clean end objects_invalid:0
+[2021-09-06 17:29:46] Clean summary...
+[2021-09-06 17:29:46] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-06 17:29:46] [033;1mClean Table Size: 0 GB[0m
+[2021-09-06 17:29:46] [033;1mClean Elapsed: 1 s[0m
+[2021-09-06 17:29:46] Clean Complete...
+[2021-09-06 17:29:46] ------------------------------------------3/88
+[2021-09-06 17:29:46] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-06 17:29:46] Clean start...
+[2021-09-06 17:29:46] clean start time:2021-09-06 17:29:46
+[2021-09-06 17:29:46] Clean start num rows:1380496
+[2021-09-06 17:29:46] Clean start table blocks:19896
+[2021-09-06 17:29:46] Clean start row_movement:DISABLED
+[2021-09-06 17:29:46] Clean start tab_size:0.15 GB
+[2021-09-06 17:29:46] Clean start objects_invalid:0
+[2021-09-06 17:29:46] Clean sql running...
+[2021-09-06 17:29:46] Clean table stat gathering...
+[2021-09-06 17:29:49] Clean end...
+[2021-09-06 17:29:49] Clean end time:2021-09-06 17:29:49
+[2021-09-06 17:29:49] Clean end num rows:1380496
+[2021-09-06 17:29:49] Clean end table blocks:19896
+[2021-09-06 17:29:49] Clean end row_movement:DISABLED
+[2021-09-06 17:29:49] Clean end tab_size:0.15 GB
+[2021-09-06 17:29:49] Clean end objects_invalid:0
+[2021-09-06 17:29:49] Clean summary...
+[2021-09-06 17:29:49] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-06 17:29:49] [033;1mClean Table Size: 0 GB[0m
+[2021-09-06 17:29:49] [033;1mClean Elapsed: 3 s[0m
+[2021-09-06 17:29:49] Clean Complete...
+[2021-09-06 17:31:54] ------------------------------------------1/88
+[2021-09-06 17:31:54] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-06 17:31:54] Clean start...
+[2021-09-06 17:31:54] clean start time:2021-09-06 17:31:54
+[2021-09-06 17:31:54] Clean start num rows:2
+[2021-09-06 17:31:54] Clean start table blocks:1
+[2021-09-06 17:31:54] Clean start row_movement:DISABLED
+[2021-09-06 17:31:54] Clean start tab_size:0.00 GB
+[2021-09-06 17:31:54] Clean start objects_invalid:0
+[2021-09-06 17:31:54] Clean sql running...
+[2021-09-06 17:31:54] Clean table stat gathering...
+[2021-09-06 17:31:55] Clean end...
+[2021-09-06 17:31:55] Clean end time:2021-09-06 17:31:55
+[2021-09-06 17:31:55] Clean end num rows:2
+[2021-09-06 17:31:55] Clean end table blocks:1
+[2021-09-06 17:31:55] Clean end row_movement:DISABLED
+[2021-09-06 17:31:55] Clean end tab_size:0.00 GB
+[2021-09-06 17:31:55] Clean end objects_invalid:0
+[2021-09-06 17:31:55] Clean summary...
+[2021-09-06 17:31:55] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-06 17:31:55] [033;1mClean Table Size: 0 GB[0m
+[2021-09-06 17:31:55] [033;1mClean Elapsed: 1 s[0m
+[2021-09-06 17:31:55] Clean Complete...
+[2021-09-06 17:31:55] ------------------------------------------3/88
+[2021-09-06 17:31:55] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-06 17:31:55] Clean start...
+[2021-09-06 17:31:55] clean start time:2021-09-06 17:31:55
+[2021-09-06 17:31:55] Clean start num rows:1380496
+[2021-09-06 17:31:55] Clean start table blocks:19896
+[2021-09-06 17:31:55] Clean start row_movement:DISABLED
+[2021-09-06 17:31:55] Clean start tab_size:0.15 GB
+[2021-09-06 17:31:55] Clean start objects_invalid:0
+[2021-09-06 17:31:55] Clean sql running...
+[2021-09-06 17:31:55] Clean table stat gathering...
+[2021-09-06 17:31:57] Clean end...
+[2021-09-06 17:31:57] Clean end time:2021-09-06 17:31:57
+[2021-09-06 17:31:57] Clean end num rows:1380496
+[2021-09-06 17:31:57] Clean end table blocks:19896
+[2021-09-06 17:31:57] Clean end row_movement:DISABLED
+[2021-09-06 17:31:57] Clean end tab_size:0.15 GB
+[2021-09-06 17:31:57] Clean end objects_invalid:0
+[2021-09-06 17:31:57] Clean summary...
+[2021-09-06 17:31:57] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-06 17:31:57] [033;1mClean Table Size: 0 GB[0m
+[2021-09-06 17:31:57] [033;1mClean Elapsed: 2 s[0m
+[2021-09-06 17:31:57] Clean Complete...
+[2021-09-07 09:43:02] ------------------------------------------1/88
+[2021-09-07 09:43:02] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 09:43:02] Clean start...
+[2021-09-07 09:43:02] clean start time:2021-09-07 09:43:02
+[2021-09-07 09:43:02] Clean start num rows:2
+[2021-09-07 09:43:02] Clean start table blocks:1
+[2021-09-07 09:43:02] Clean start row_movement:DISABLED
+[2021-09-07 09:43:02] Clean start tab_size:0.00 GB
+[2021-09-07 09:43:02] Clean start objects_invalid:0
+[2021-09-07 09:43:02] Clean sql running...
+[2021-09-07 09:43:02] Clean table stat gathering...
+[2021-09-07 09:43:02] Clean end...
+[2021-09-07 09:43:02] Clean end time:2021-09-07 09:43:02
+[2021-09-07 09:43:02] Clean end num rows:2
+[2021-09-07 09:43:02] Clean end table blocks:1
+[2021-09-07 09:43:02] Clean end row_movement:DISABLED
+[2021-09-07 09:43:03] Clean end tab_size:0.00 GB
+[2021-09-07 09:43:03] Clean end objects_invalid:0
+[2021-09-07 09:43:03] Clean summary...
+[2021-09-07 09:43:03] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 09:43:03] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 09:43:03] [033;1mClean Elapsed: 0 s[0m
+[2021-09-07 09:43:03] Clean Complete...
+[2021-09-07 09:43:03] ------------------------------------------3/88
+[2021-09-07 09:43:03] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 09:43:03] Clean start...
+[2021-09-07 09:43:03] clean start time:2021-09-07 09:43:03
+[2021-09-07 09:43:03] Clean start num rows:1380496
+[2021-09-07 09:43:03] Clean start table blocks:19896
+[2021-09-07 09:43:03] Clean start row_movement:DISABLED
+[2021-09-07 09:43:03] Clean start tab_size:0.15 GB
+[2021-09-07 09:43:03] Clean start objects_invalid:0
+[2021-09-07 09:43:03] Clean sql running...
+[2021-09-07 09:43:03] Clean table stat gathering...
+[2021-09-07 09:43:06] Clean end...
+[2021-09-07 09:43:06] Clean end time:2021-09-07 09:43:06
+[2021-09-07 09:43:06] Clean end num rows:1380496
+[2021-09-07 09:43:06] Clean end table blocks:19896
+[2021-09-07 09:43:06] Clean end row_movement:DISABLED
+[2021-09-07 09:43:06] Clean end tab_size:0.15 GB
+[2021-09-07 09:43:06] Clean end objects_invalid:0
+[2021-09-07 09:43:06] Clean summary...
+[2021-09-07 09:43:06] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 09:43:06] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 09:43:06] [033;1mClean Elapsed: 3 s[0m
+[2021-09-07 09:43:06] Clean Complete...
+[2021-09-07 09:43:53] ------------------------------------------1/88
+[2021-09-07 09:43:53] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 09:43:54] Clean start...
+[2021-09-07 09:43:54] clean start time:2021-09-07 09:43:53
+[2021-09-07 09:43:54] Clean start num rows:2
+[2021-09-07 09:43:54] Clean start table blocks:1
+[2021-09-07 09:43:54] Clean start row_movement:DISABLED
+[2021-09-07 09:43:54] Clean start tab_size:0.00 GB
+[2021-09-07 09:43:54] Clean start objects_invalid:0
+[2021-09-07 09:43:54] Clean sql running...
+[2021-09-07 09:43:54] Clean table stat gathering...
+[2021-09-07 09:43:54] Clean end...
+[2021-09-07 09:43:54] Clean end time:2021-09-07 09:43:54
+[2021-09-07 09:43:54] Clean end num rows:2
+[2021-09-07 09:43:54] Clean end table blocks:1
+[2021-09-07 09:43:54] Clean end row_movement:DISABLED
+[2021-09-07 09:43:54] Clean end tab_size:0.00 GB
+[2021-09-07 09:43:54] Clean end objects_invalid:0
+[2021-09-07 09:43:54] Clean summary...
+[2021-09-07 09:43:54] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 09:43:54] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 09:43:54] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 09:43:54] Clean Complete...
+[2021-09-07 09:43:54] ------------------------------------------3/88
+[2021-09-07 09:43:54] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 09:43:54] Clean start...
+[2021-09-07 09:43:54] clean start time:2021-09-07 09:43:54
+[2021-09-07 09:43:54] Clean start num rows:1380496
+[2021-09-07 09:43:54] Clean start table blocks:19896
+[2021-09-07 09:43:54] Clean start row_movement:DISABLED
+[2021-09-07 09:43:54] Clean start tab_size:0.15 GB
+[2021-09-07 09:43:54] Clean start objects_invalid:0
+[2021-09-07 09:43:54] Clean sql running...
+[2021-09-07 09:43:55] Clean table stat gathering...
+[2021-09-07 09:43:56] Clean end...
+[2021-09-07 09:43:56] Clean end time:2021-09-07 09:43:56
+[2021-09-07 09:43:56] Clean end num rows:1380496
+[2021-09-07 09:43:56] Clean end table blocks:19896
+[2021-09-07 09:43:56] Clean end row_movement:DISABLED
+[2021-09-07 09:43:56] Clean end tab_size:0.15 GB
+[2021-09-07 09:43:56] Clean end objects_invalid:0
+[2021-09-07 09:43:56] Clean summary...
+[2021-09-07 09:43:56] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 09:43:56] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 09:43:56] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 09:43:56] Clean Complete...
+[2021-09-07 09:52:40] ------------------------------------------1/88
+[2021-09-07 09:52:40] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 09:52:41] Clean start...
+[2021-09-07 09:52:41] clean start time:2021-09-07 09:52:40
+[2021-09-07 09:52:41] Clean start num rows:2
+[2021-09-07 09:52:41] Clean start table blocks:1
+[2021-09-07 09:52:41] Clean start row_movement:DISABLED
+[2021-09-07 09:52:41] Clean start tab_size:0.00 GB
+[2021-09-07 09:52:41] Clean start objects_invalid:0
+[2021-09-07 09:52:41] Clean sql running...
+[2021-09-07 09:52:41] Clean table stat gathering...
+[2021-09-07 09:52:41] Clean end...
+[2021-09-07 09:52:41] Clean end time:2021-09-07 09:52:41
+[2021-09-07 09:52:41] Clean end num rows:2
+[2021-09-07 09:52:41] Clean end table blocks:1
+[2021-09-07 09:52:41] Clean end row_movement:DISABLED
+[2021-09-07 09:52:41] Clean end tab_size:0.00 GB
+[2021-09-07 09:52:41] Clean end objects_invalid:0
+[2021-09-07 09:52:41] Clean summary...
+[2021-09-07 09:52:41] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 09:52:41] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 09:52:41] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 09:52:41] Clean Complete...
+[2021-09-07 09:52:41] ------------------------------------------3/88
+[2021-09-07 09:52:41] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 09:52:41] Clean start...
+[2021-09-07 09:52:41] clean start time:2021-09-07 09:52:41
+[2021-09-07 09:52:41] Clean start num rows:1380496
+[2021-09-07 09:52:41] Clean start table blocks:19896
+[2021-09-07 09:52:41] Clean start row_movement:DISABLED
+[2021-09-07 09:52:41] Clean start tab_size:0.15 GB
+[2021-09-07 09:52:41] Clean start objects_invalid:0
+[2021-09-07 09:52:41] Clean sql running...
+[2021-09-07 09:52:42] Clean table stat gathering...
+[2021-09-07 09:52:44] Clean end...
+[2021-09-07 09:52:44] Clean end time:2021-09-07 09:52:44
+[2021-09-07 09:52:44] Clean end num rows:1380496
+[2021-09-07 09:52:44] Clean end table blocks:19896
+[2021-09-07 09:52:44] Clean end row_movement:DISABLED
+[2021-09-07 09:52:44] Clean end tab_size:0.15 GB
+[2021-09-07 09:52:44] Clean end objects_invalid:0
+[2021-09-07 09:52:44] Clean summary...
+[2021-09-07 09:52:44] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 09:52:44] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 09:52:44] [033;1mClean Elapsed: 3 s[0m
+[2021-09-07 09:52:44] Clean Complete...
+[2021-09-07 09:53:51] ------------------------------------------1/88
+[2021-09-07 09:53:51] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 09:53:51] Clean start...
+[2021-09-07 09:53:51] clean start time:2021-09-07 09:53:51
+[2021-09-07 09:53:51] Clean start num rows:2
+[2021-09-07 09:53:51] Clean start table blocks:1
+[2021-09-07 09:53:51] Clean start row_movement:DISABLED
+[2021-09-07 09:53:51] Clean start tab_size:0.00 GB
+[2021-09-07 09:53:51] Clean start objects_invalid:0
+[2021-09-07 09:53:51] Clean sql running...
+[2021-09-07 09:53:52] Clean table stat gathering...
+[2021-09-07 09:53:52] Clean end...
+[2021-09-07 09:53:52] Clean end time:2021-09-07 09:53:52
+[2021-09-07 09:53:52] Clean end num rows:2
+[2021-09-07 09:53:52] Clean end table blocks:1
+[2021-09-07 09:53:52] Clean end row_movement:DISABLED
+[2021-09-07 09:53:52] Clean end tab_size:0.00 GB
+[2021-09-07 09:53:52] Clean end objects_invalid:0
+[2021-09-07 09:53:52] Clean summary...
+[2021-09-07 09:53:52] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 09:53:52] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 09:53:52] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 09:53:52] Clean Complete...
+[2021-09-07 09:53:52] ------------------------------------------3/88
+[2021-09-07 09:53:52] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 09:53:52] Clean start...
+[2021-09-07 09:53:52] clean start time:2021-09-07 09:53:52
+[2021-09-07 09:53:52] Clean start num rows:1380496
+[2021-09-07 09:53:52] Clean start table blocks:19896
+[2021-09-07 09:53:52] Clean start row_movement:DISABLED
+[2021-09-07 09:53:52] Clean start tab_size:0.15 GB
+[2021-09-07 09:53:52] Clean start objects_invalid:0
+[2021-09-07 09:53:52] Clean sql running...
+[2021-09-07 09:53:52] Clean table stat gathering...
+[2021-09-07 09:53:54] Clean end...
+[2021-09-07 09:53:54] Clean end time:2021-09-07 09:53:54
+[2021-09-07 09:53:54] Clean end num rows:1380496
+[2021-09-07 09:53:54] Clean end table blocks:19896
+[2021-09-07 09:53:54] Clean end row_movement:DISABLED
+[2021-09-07 09:53:54] Clean end tab_size:0.15 GB
+[2021-09-07 09:53:54] Clean end objects_invalid:0
+[2021-09-07 09:53:54] Clean summary...
+[2021-09-07 09:53:54] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 09:53:54] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 09:53:54] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 09:53:54] Clean Complete...
+[2021-09-07 10:04:46] ------------------------------------------1/88
+[2021-09-07 10:04:46] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 10:04:46] Clean start...
+[2021-09-07 10:04:46] clean start time:2021-09-07 10:04:46
+[2021-09-07 10:04:46] Clean start num rows:2
+[2021-09-07 10:04:46] Clean start table blocks:1
+[2021-09-07 10:04:46] Clean start row_movement:DISABLED
+[2021-09-07 10:04:46] Clean start tab_size:0.00 GB
+[2021-09-07 10:04:46] Clean start objects_invalid:0
+[2021-09-07 10:04:46] Clean sql running...
+[2021-09-07 10:04:46] Clean table stat gathering...
+[2021-09-07 10:09:46] ------------------------------------------1/88
+[2021-09-07 10:09:46] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 10:09:47] Clean start...
+[2021-09-07 10:09:47] clean start time:2021-09-07 10:09:47
+[2021-09-07 10:09:47] Clean start num rows:2
+[2021-09-07 10:09:47] Clean start table blocks:1
+[2021-09-07 10:09:47] Clean start row_movement:DISABLED
+[2021-09-07 10:09:47] Clean start tab_size:0.00 GB
+[2021-09-07 10:09:47] Clean start objects_invalid:0
+[2021-09-07 10:09:47] Clean sql running...
+[2021-09-07 10:09:47] Clean table stat gathering...
+[2021-09-07 10:09:47] Clean end...
+[2021-09-07 10:09:47] Clean end time:2021-09-07 10:09:47
+[2021-09-07 10:09:47] Clean end num rows:2
+[2021-09-07 10:09:47] Clean end table blocks:1
+[2021-09-07 10:09:47] Clean end row_movement:DISABLED
+[2021-09-07 10:09:47] Clean end tab_size:0.00 GB
+[2021-09-07 10:09:47] Clean end objects_invalid:0
+[2021-09-07 10:09:47] Clean summary...
+[2021-09-07 10:09:47] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:09:47] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:09:47] [033;1mClean Elapsed: 0 s[0m
+[2021-09-07 10:09:47] Clean Complete...
+[2021-09-07 10:09:47] ------------------------------------------2/88
+[2021-09-07 10:09:47] Table Owner :MYTHREE  Table Name :T_OBJECTS
+[2021-09-07 10:09:47] Clean start...
+[2021-09-07 10:09:47] clean start time:2021-09-07 10:09:47
+[2021-09-07 10:09:47] Clean start num rows:1380496
+[2021-09-07 10:09:47] Clean start table blocks:19632
+[2021-09-07 10:09:47] Clean start row_movement:DISABLED
+[2021-09-07 10:09:47] Clean start tab_size:'Tab_size_gb' GB
+[2021-09-07 10:09:47] Clean start objects_invalid:0
+[2021-09-07 10:09:47] Clean sql running...
+[2021-09-07 10:09:48] Clean table stat gathering...
+[2021-09-07 10:09:48] Clean end...
+[2021-09-07 10:09:48] Clean end time:2021-09-07 10:09:48
+[2021-09-07 10:09:48] Clean end num rows:1380496
+[2021-09-07 10:09:48] Clean end table blocks:19632
+[2021-09-07 10:09:48] Clean end row_movement:DISABLED
+[2021-09-07 10:09:48] Clean end tab_size:0.15 GB
+[2021-09-07 10:09:48] Clean end objects_invalid:0
+[2021-09-07 10:09:48] Clean summary...
+[2021-09-07 10:09:48] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:09:48] [033;1mClean Table Size:  GB[0m
+[2021-09-07 10:09:48] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:09:48] Clean Complete...
+[2021-09-07 10:09:48] ------------------------------------------3/88
+[2021-09-07 10:09:48] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 10:09:48] Clean start...
+[2021-09-07 10:09:48] clean start time:2021-09-07 10:09:48
+[2021-09-07 10:09:48] Clean start num rows:1380496
+[2021-09-07 10:09:48] Clean start table blocks:19896
+[2021-09-07 10:09:48] Clean start row_movement:DISABLED
+[2021-09-07 10:09:48] Clean start tab_size:0.15 GB
+[2021-09-07 10:09:48] Clean start objects_invalid:0
+[2021-09-07 10:09:48] Clean sql running...
+[2021-09-07 10:09:49] Clean table stat gathering...
+[2021-09-07 10:09:49] Clean end...
+[2021-09-07 10:09:49] Clean end time:2021-09-07 10:09:49
+[2021-09-07 10:09:49] Clean end num rows:1380496
+[2021-09-07 10:09:49] Clean end table blocks:19896
+[2021-09-07 10:09:49] Clean end row_movement:DISABLED
+[2021-09-07 10:09:49] Clean end tab_size:0.15 GB
+[2021-09-07 10:09:49] Clean end objects_invalid:0
+[2021-09-07 10:09:49] Clean summary...
+[2021-09-07 10:09:49] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:09:49] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:09:49] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:09:49] Clean Complete...
+[2021-09-07 10:09:49] ------------------------------------------4/88
+[2021-09-07 10:09:49] Table Owner :MYTHREE  Table Name :T
+[2021-09-07 10:09:49] Clean start...
+[2021-09-07 10:09:49] clean start time:2021-09-07 10:09:49
+[2021-09-07 10:09:49] Clean start num rows:1380496
+[2021-09-07 10:09:49] Clean start table blocks:19632
+[2021-09-07 10:09:49] Clean start row_movement:DISABLED
+[2021-09-07 10:09:49] Clean start tab_size:0.15 GB
+[2021-09-07 10:09:49] Clean start objects_invalid:0
+[2021-09-07 10:09:49] Clean sql running...
+[2021-09-07 10:09:50] Clean table stat gathering...
+[2021-09-07 10:09:51] Clean end...
+[2021-09-07 10:09:51] Clean end time:2021-09-07 10:09:51
+[2021-09-07 10:09:51] Clean end num rows:1380496
+[2021-09-07 10:09:51] Clean end table blocks:19632
+[2021-09-07 10:09:51] Clean end row_movement:DISABLED
+[2021-09-07 10:09:51] Clean end tab_size:0.15 GB
+[2021-09-07 10:09:51] Clean end objects_invalid:0
+[2021-09-07 10:09:51] Clean summary...
+[2021-09-07 10:09:51] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:09:51] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:09:51] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 10:09:51] Clean Complete...
+[2021-09-07 10:11:41] ------------------------------------------1/88
+[2021-09-07 10:11:41] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 10:11:42] Clean start...
+[2021-09-07 10:11:42] clean start time:2021-09-07 10:11:41
+[2021-09-07 10:11:42] Clean start num rows:2
+[2021-09-07 10:11:42] Clean start table blocks:1
+[2021-09-07 10:11:42] Clean start row_movement:DISABLED
+[2021-09-07 10:11:42] Clean start tab_size:0.00 GB
+[2021-09-07 10:11:42] Clean start objects_invalid:0
+[2021-09-07 10:11:42] Clean sql running...
+[2021-09-07 10:11:42] Clean table stat gathering...
+[2021-09-07 10:11:42] Clean end...
+[2021-09-07 10:11:42] Clean end time:2021-09-07 10:11:42
+[2021-09-07 10:11:42] Clean end num rows:2
+[2021-09-07 10:11:42] Clean end table blocks:1
+[2021-09-07 10:11:42] Clean end row_movement:DISABLED
+[2021-09-07 10:11:42] Clean end tab_size:0.00 GB
+[2021-09-07 10:11:42] Clean end objects_invalid:0
+[2021-09-07 10:11:42] Clean summary...
+[2021-09-07 10:11:42] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:11:42] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:11:42] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:11:42] Clean Complete...
+[2021-09-07 10:11:42] ------------------------------------------2/88
+[2021-09-07 10:11:42] Table Owner :MYTHREE  Table Name :T_OBJECTS
+[2021-09-07 10:11:43] Clean start...
+[2021-09-07 10:11:43] clean start time:2021-09-07 10:11:42
+[2021-09-07 10:11:43] Clean start num rows:1380496
+[2021-09-07 10:11:43] Clean start table blocks:19632
+[2021-09-07 10:11:43] Clean start row_movement:DISABLED
+[2021-09-07 10:11:43] Clean start tab_size:0.15 GB
+[2021-09-07 10:11:43] Clean start objects_invalid:0
+[2021-09-07 10:11:43] Clean sql running...
+[2021-09-07 10:11:43] Clean table stat gathering...
+[2021-09-07 10:11:46] Clean end...
+[2021-09-07 10:11:46] Clean end time:2021-09-07 10:11:46
+[2021-09-07 10:11:46] Clean end num rows:1380496
+[2021-09-07 10:11:46] Clean end table blocks:19632
+[2021-09-07 10:11:46] Clean end row_movement:DISABLED
+[2021-09-07 10:11:46] Clean end tab_size:0.15 GB
+[2021-09-07 10:11:46] Clean end objects_invalid:0
+[2021-09-07 10:11:46] Clean summary...
+[2021-09-07 10:11:46] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:11:46] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:11:46] [033;1mClean Elapsed: 4 s[0m
+[2021-09-07 10:11:46] Clean Complete...
+[2021-09-07 10:11:46] ------------------------------------------3/88
+[2021-09-07 10:11:46] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 10:11:46] Clean start...
+[2021-09-07 10:11:46] clean start time:2021-09-07 10:11:46
+[2021-09-07 10:11:46] Clean start num rows:1380496
+[2021-09-07 10:11:46] Clean start table blocks:19896
+[2021-09-07 10:11:46] Clean start row_movement:DISABLED
+[2021-09-07 10:11:46] Clean start tab_size:0.15 GB
+[2021-09-07 10:11:46] Clean start objects_invalid:0
+[2021-09-07 10:11:46] Clean sql running...
+[2021-09-07 10:11:46] Clean table stat gathering...
+[2021-09-07 10:11:48] Clean end...
+[2021-09-07 10:11:48] Clean end time:2021-09-07 10:11:48
+[2021-09-07 10:11:48] Clean end num rows:1380496
+[2021-09-07 10:11:48] Clean end table blocks:19896
+[2021-09-07 10:11:48] Clean end row_movement:DISABLED
+[2021-09-07 10:11:48] Clean end tab_size:0.15 GB
+[2021-09-07 10:11:48] Clean end objects_invalid:0
+[2021-09-07 10:11:48] Clean summary...
+[2021-09-07 10:11:48] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:11:48] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:11:48] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 10:11:48] Clean Complete...
+[2021-09-07 10:11:48] ------------------------------------------4/88
+[2021-09-07 10:11:48] Table Owner :MYTHREE  Table Name :T
+[2021-09-07 10:11:48] Clean start...
+[2021-09-07 10:11:48] clean start time:2021-09-07 10:11:48
+[2021-09-07 10:11:48] Clean start num rows:1380496
+[2021-09-07 10:11:48] Clean start table blocks:19632
+[2021-09-07 10:11:48] Clean start row_movement:DISABLED
+[2021-09-07 10:11:48] Clean start tab_size:0.15 GB
+[2021-09-07 10:11:48] Clean start objects_invalid:0
+[2021-09-07 10:11:48] Clean sql running...
+[2021-09-07 10:11:48] Clean table stat gathering...
+[2021-09-07 10:11:50] Clean end...
+[2021-09-07 10:11:50] Clean end time:2021-09-07 10:11:49
+[2021-09-07 10:11:50] Clean end num rows:1380496
+[2021-09-07 10:11:50] Clean end table blocks:19632
+[2021-09-07 10:11:50] Clean end row_movement:DISABLED
+[2021-09-07 10:11:50] Clean end tab_size:0.15 GB
+[2021-09-07 10:11:50] Clean end objects_invalid:0
+[2021-09-07 10:11:50] Clean summary...
+[2021-09-07 10:11:50] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:11:50] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:11:50] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:11:50] Clean Complete...
+[2021-09-07 10:14:01] ------------------------------------------1/88
+[2021-09-07 10:14:01] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 10:14:01] Clean start...
+[2021-09-07 10:14:01] clean start time:2021-09-07 10:14:01
+[2021-09-07 10:14:01] Clean start num rows:2
+[2021-09-07 10:14:01] Clean start table blocks:1
+[2021-09-07 10:14:01] Clean start row_movement:DISABLED
+[2021-09-07 10:14:01] Clean start tab_size:0.00 GB
+[2021-09-07 10:14:01] Clean start objects_invalid:0
+[2021-09-07 10:14:01] Clean sql running...
+[2021-09-07 10:14:02] Clean table stat gathering...
+[2021-09-07 10:14:02] Clean end...
+[2021-09-07 10:14:02] Clean end time:2021-09-07 10:14:02
+[2021-09-07 10:14:02] Clean end num rows:2
+[2021-09-07 10:14:02] Clean end table blocks:1
+[2021-09-07 10:14:02] Clean end row_movement:DISABLED
+[2021-09-07 10:14:02] Clean end tab_size:'Tab_size_gb' GB
+[2021-09-07 10:14:02] Clean end objects_invalid:0
+[2021-09-07 10:14:02] Clean summary...
+[2021-09-07 10:14:02] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:14:02] [033;1mClean Table Size:  GB[0m
+[2021-09-07 10:14:02] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:14:02] Clean Complete...
+[2021-09-07 10:14:02] ------------------------------------------2/88
+[2021-09-07 10:14:02] Table Owner :MYTHREE  Table Name :T_OBJECTS
+[2021-09-07 10:14:02] Clean start...
+[2021-09-07 10:14:02] clean start time:2021-09-07 10:14:02
+[2021-09-07 10:14:02] Clean start num rows:1380496
+[2021-09-07 10:14:02] Clean start table blocks:19632
+[2021-09-07 10:14:02] Clean start row_movement:DISABLED
+[2021-09-07 10:14:02] Clean start tab_size:'Tab_size_gb' GB
+[2021-09-07 10:14:02] Clean start objects_invalid:0
+[2021-09-07 10:14:02] Clean sql running...
+[2021-09-07 10:14:03] Clean table stat gathering...
+[2021-09-07 10:14:03] Clean end...
+[2021-09-07 10:14:03] Clean end time:2021-09-07 10:14:03
+[2021-09-07 10:14:03] Clean end num rows:1380496
+[2021-09-07 10:14:03] Clean end table blocks:19632
+[2021-09-07 10:14:03] Clean end row_movement:DISABLED
+[2021-09-07 10:14:03] Clean end tab_size:'Tab_size_gb' GB
+[2021-09-07 10:14:03] Clean end objects_invalid:0
+[2021-09-07 10:14:03] Clean summary...
+[2021-09-07 10:14:03] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:14:03] [033;1mClean Table Size:  GB[0m
+[2021-09-07 10:14:03] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:14:03] Clean Complete...
+[2021-09-07 10:14:03] ------------------------------------------3/88
+[2021-09-07 10:14:03] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 10:14:03] Clean start...
+[2021-09-07 10:14:03] clean start time:2021-09-07 10:14:03
+[2021-09-07 10:14:03] Clean start num rows:1380496
+[2021-09-07 10:14:03] Clean start table blocks:19632
+[2021-09-07 10:14:03] Clean start row_movement:DISABLED
+[2021-09-07 10:14:03] Clean start tab_size:'Tab_size_gb' GB
+[2021-09-07 10:14:03] Clean start objects_invalid:0
+[2021-09-07 10:14:03] Clean sql running...
+[2021-09-07 10:14:03] Clean table stat gathering...
+[2021-09-07 10:14:04] Clean end...
+[2021-09-07 10:14:04] Clean end time:2021-09-07 10:14:04
+[2021-09-07 10:14:04] Clean end num rows:1380496
+[2021-09-07 10:14:04] Clean end table blocks:19896
+[2021-09-07 10:14:04] Clean end row_movement:DISABLED
+[2021-09-07 10:14:04] Clean end tab_size:'Tab_size_gb' GB
+[2021-09-07 10:14:04] Clean end objects_invalid:0
+[2021-09-07 10:14:04] Clean summary...
+[2021-09-07 10:14:04] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:14:04] [033;1mClean Table Size:  GB[0m
+[2021-09-07 10:14:04] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:14:04] Clean Complete...
+[2021-09-07 10:14:04] ------------------------------------------4/88
+[2021-09-07 10:14:04] Table Owner :MYTHREE  Table Name :T
+[2021-09-07 10:14:04] Clean start...
+[2021-09-07 10:14:04] clean start time:2021-09-07 10:14:04
+[2021-09-07 10:14:04] Clean start num rows:1380496
+[2021-09-07 10:14:04] Clean start table blocks:19632
+[2021-09-07 10:14:04] Clean start row_movement:DISABLED
+[2021-09-07 10:14:04] Clean start tab_size:0.15 GB
+[2021-09-07 10:14:04] Clean start objects_invalid:0
+[2021-09-07 10:14:04] Clean sql running...
+[2021-09-07 10:14:04] Clean table stat gathering...
+[2021-09-07 10:14:05] Clean end...
+[2021-09-07 10:14:05] Clean end time:2021-09-07 10:14:05
+[2021-09-07 10:14:05] Clean end num rows:1380496
+[2021-09-07 10:14:05] Clean end table blocks:19632
+[2021-09-07 10:14:05] Clean end row_movement:DISABLED
+[2021-09-07 10:14:05] Clean end tab_size:0.15 GB
+[2021-09-07 10:14:05] Clean end objects_invalid:0
+[2021-09-07 10:14:05] Clean summary...
+[2021-09-07 10:14:05] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:14:05] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:14:05] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:14:05] Clean Complete...
+[2021-09-07 10:39:37] ------------------------------------------1/88
+[2021-09-07 10:39:37] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 10:39:37] Clean start...
+[2021-09-07 10:39:37] clean start time:2021-09-07 10:39:37
+[2021-09-07 10:39:37] Clean start num rows:2
+[2021-09-07 10:39:37] Clean start table blocks:1
+[2021-09-07 10:39:37] Clean start row_movement:DISABLED
+[2021-09-07 10:39:37] Clean start tab_size:0.00 GB
+[2021-09-07 10:39:37] Clean start objects_invalid:0
+[2021-09-07 10:39:37] Clean sql running...
+[2021-09-07 10:39:37] Clean table stat gathering...
+[2021-09-07 10:39:38] Clean end...
+[2021-09-07 10:41:05] ------------------------------------------1/88
+[2021-09-07 10:41:05] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 10:41:05] Clean start...
+[2021-09-07 10:41:05] clean start time:2021-09-07 10:41:05
+[2021-09-07 10:41:05] Clean start num rows:2
+[2021-09-07 10:41:05] Clean start table blocks:1
+[2021-09-07 10:41:05] Clean start row_movement:DISABLED
+[2021-09-07 10:41:05] Clean start tab_size:0.00 GB
+[2021-09-07 10:41:05] Clean start objects_invalid:0
+[2021-09-07 10:41:05] Clean sql running...
+[2021-09-07 10:41:05] Clean table stat gathering...
+[2021-09-07 10:41:05] Clean end...
+[2021-09-07 10:41:05] Clean end time:2021-09-07 10:41:05
+[2021-09-07 10:41:05] Clean end num rows:2
+[2021-09-07 10:41:05] Clean end table blocks:1
+[2021-09-07 10:41:05] Clean end row_movement:DISABLED
+[2021-09-07 10:41:05] Clean end tab_size:'Tab_size_gb' GB
+[2021-09-07 10:41:05] Clean end objects_invalid:0
+[2021-09-07 10:41:05] Clean summary...
+[2021-09-07 10:41:05] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:41:05] [033;1mClean Table Size:  GB[0m
+[2021-09-07 10:41:05] [033;1mClean Elapsed: 0 s[0m
+[2021-09-07 10:41:05] Clean Complete...
+[2021-09-07 10:41:06] ------------------------------------------2/88
+[2021-09-07 10:41:06] Table Owner :MYTHREE  Table Name :T_OBJECTS
+[2021-09-07 10:41:06] Clean start...
+[2021-09-07 10:41:06] clean start time:2021-09-07 10:41:06
+[2021-09-07 10:41:06] Clean start num rows:1380496
+[2021-09-07 10:41:06] Clean start table blocks:19632
+[2021-09-07 10:41:06] Clean start row_movement:DISABLED
+[2021-09-07 10:41:06] Clean start tab_size:0.15 GB
+[2021-09-07 10:41:06] Clean start objects_invalid:0
+[2021-09-07 10:41:06] Clean sql running...
+[2021-09-07 10:41:06] Clean table stat gathering...
+[2021-09-07 10:41:09] Clean end...
+[2021-09-07 10:41:09] Clean end time:2021-09-07 10:41:08
+[2021-09-07 10:41:09] Clean end num rows:1380496
+[2021-09-07 10:41:09] Clean end table blocks:19632
+[2021-09-07 10:41:09] Clean end row_movement:DISABLED
+[2021-09-07 10:41:09] Clean end tab_size:0.15 GB
+[2021-09-07 10:41:09] Clean end objects_invalid:0
+[2021-09-07 10:41:09] Clean summary...
+[2021-09-07 10:41:09] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:41:09] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:41:09] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 10:41:09] Clean Complete...
+[2021-09-07 10:41:09] ------------------------------------------3/88
+[2021-09-07 10:41:09] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 10:41:09] Clean start...
+[2021-09-07 10:41:09] clean start time:2021-09-07 10:41:09
+[2021-09-07 10:41:09] Clean start num rows:1380496
+[2021-09-07 10:41:09] Clean start table blocks:19896
+[2021-09-07 10:41:09] Clean start row_movement:DISABLED
+[2021-09-07 10:41:09] Clean start tab_size:0.15 GB
+[2021-09-07 10:41:09] Clean start objects_invalid:0
+[2021-09-07 10:41:09] Clean sql running...
+[2021-09-07 10:41:09] Clean table stat gathering...
+[2021-09-07 10:41:12] Clean end...
+[2021-09-07 10:41:12] Clean end time:2021-09-07 10:41:11
+[2021-09-07 10:41:12] Clean end num rows:1380496
+[2021-09-07 10:41:12] Clean end table blocks:19896
+[2021-09-07 10:41:12] Clean end row_movement:DISABLED
+[2021-09-07 10:41:12] Clean end tab_size:0.15 GB
+[2021-09-07 10:41:12] Clean end objects_invalid:0
+[2021-09-07 10:41:12] Clean summary...
+[2021-09-07 10:41:12] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:41:12] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:41:12] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 10:41:12] Clean Complete...
+[2021-09-07 10:41:12] ------------------------------------------4/88
+[2021-09-07 10:41:12] Table Owner :MYTHREE  Table Name :T
+[2021-09-07 10:41:12] Clean start...
+[2021-09-07 10:41:12] clean start time:2021-09-07 10:41:12
+[2021-09-07 10:41:12] Clean start num rows:1380496
+[2021-09-07 10:41:12] Clean start table blocks:19632
+[2021-09-07 10:41:12] Clean start row_movement:DISABLED
+[2021-09-07 10:41:12] Clean start tab_size:0.15 GB
+[2021-09-07 10:41:12] Clean start objects_invalid:0
+[2021-09-07 10:41:12] Clean sql running...
+[2021-09-07 10:41:12] Clean table stat gathering...
+[2021-09-07 10:41:14] Clean end...
+[2021-09-07 10:41:14] Clean end time:2021-09-07 10:41:14
+[2021-09-07 10:41:14] Clean end num rows:1380496
+[2021-09-07 10:41:14] Clean end table blocks:19632
+[2021-09-07 10:41:14] Clean end row_movement:DISABLED
+[2021-09-07 10:41:14] Clean end tab_size:0.15 GB
+[2021-09-07 10:41:14] Clean end objects_invalid:0
+[2021-09-07 10:41:14] Clean summary...
+[2021-09-07 10:41:14] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:41:14] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:41:14] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 10:41:14] Clean Complete...
+[2021-09-07 10:41:38] ------------------------------------------1/88
+[2021-09-07 10:41:38] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 10:41:38] Clean start...
+[2021-09-07 10:41:38] clean start time:2021-09-07 10:41:38
+[2021-09-07 10:41:38] Clean start num rows:2
+[2021-09-07 10:41:38] Clean start table blocks:1
+[2021-09-07 10:41:38] Clean start row_movement:DISABLED
+[2021-09-07 10:41:38] Clean start tab_size:0.00 GB
+[2021-09-07 10:41:38] Clean start objects_invalid:0
+[2021-09-07 10:41:38] Clean sql running...
+[2021-09-07 10:41:38] Clean table stat gathering...
+[2021-09-07 10:41:38] Clean end...
+[2021-09-07 10:41:38] Clean end time:2021-09-07 10:41:38
+[2021-09-07 10:41:38] Clean end num rows:2
+[2021-09-07 10:41:38] Clean end table blocks:1
+[2021-09-07 10:41:38] Clean end row_movement:DISABLED
+[2021-09-07 10:41:38] Clean end tab_size:0.00 GB
+[2021-09-07 10:41:38] Clean end objects_invalid:0
+[2021-09-07 10:41:38] Clean summary...
+[2021-09-07 10:41:38] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:41:38] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:41:39] [033;1mClean Elapsed: 0 s[0m
+[2021-09-07 10:41:39] Clean Complete...
+[2021-09-07 10:41:39] ------------------------------------------2/88
+[2021-09-07 10:41:39] Table Owner :MYTHREE  Table Name :T_OBJECTS
+[2021-09-07 10:41:39] Clean start...
+[2021-09-07 10:41:39] clean start time:2021-09-07 10:41:39
+[2021-09-07 10:41:39] Clean start num rows:1380496
+[2021-09-07 10:41:39] Clean start table blocks:19632
+[2021-09-07 10:41:39] Clean start row_movement:DISABLED
+[2021-09-07 10:41:39] Clean start tab_size:0.15 GB
+[2021-09-07 10:41:39] Clean start objects_invalid:0
+[2021-09-07 10:41:39] Clean sql running...
+[2021-09-07 10:41:39] Clean table stat gathering...
+[2021-09-07 10:41:40] Clean end...
+[2021-09-07 10:41:41] Clean end time:2021-09-07 10:41:40
+[2021-09-07 10:41:41] Clean end num rows:1380496
+[2021-09-07 10:41:41] Clean end table blocks:19632
+[2021-09-07 10:41:41] Clean end row_movement:DISABLED
+[2021-09-07 10:41:41] Clean end tab_size:0.15 GB
+[2021-09-07 10:41:41] Clean end objects_invalid:0
+[2021-09-07 10:41:41] Clean summary...
+[2021-09-07 10:41:41] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:41:41] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:41:41] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:41:41] Clean Complete...
+[2021-09-07 10:41:41] ------------------------------------------3/88
+[2021-09-07 10:41:41] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 10:41:41] Clean start...
+[2021-09-07 10:41:41] clean start time:2021-09-07 10:41:41
+[2021-09-07 10:41:41] Clean start num rows:1380496
+[2021-09-07 10:41:41] Clean start table blocks:19896
+[2021-09-07 10:41:41] Clean start row_movement:DISABLED
+[2021-09-07 10:41:41] Clean start tab_size:0.15 GB
+[2021-09-07 10:41:41] Clean start objects_invalid:0
+[2021-09-07 10:41:41] Clean sql running...
+[2021-09-07 10:41:41] Clean table stat gathering...
+[2021-09-07 10:41:43] Clean end...
+[2021-09-07 10:41:43] Clean end time:2021-09-07 10:41:42
+[2021-09-07 10:41:43] Clean end num rows:1380496
+[2021-09-07 10:41:43] Clean end table blocks:19896
+[2021-09-07 10:41:43] Clean end row_movement:DISABLED
+[2021-09-07 10:41:43] Clean end tab_size:0.15 GB
+[2021-09-07 10:41:43] Clean end objects_invalid:0
+[2021-09-07 10:41:43] Clean summary...
+[2021-09-07 10:41:43] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:41:43] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:41:43] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:41:43] Clean Complete...
+[2021-09-07 10:41:43] ------------------------------------------4/88
+[2021-09-07 10:41:43] Table Owner :MYTHREE  Table Name :T
+[2021-09-07 10:41:43] Clean start...
+[2021-09-07 10:41:43] clean start time:2021-09-07 10:41:43
+[2021-09-07 10:41:43] Clean start num rows:1380496
+[2021-09-07 10:41:43] Clean start table blocks:19632
+[2021-09-07 10:41:43] Clean start row_movement:DISABLED
+[2021-09-07 10:41:43] Clean start tab_size:0.15 GB
+[2021-09-07 10:41:43] Clean start objects_invalid:0
+[2021-09-07 10:41:43] Clean sql running...
+[2021-09-07 10:41:43] Clean table stat gathering...
+[2021-09-07 10:41:44] Clean end...
+[2021-09-07 10:41:44] Clean end time:2021-09-07 10:41:44
+[2021-09-07 10:41:44] Clean end num rows:1380496
+[2021-09-07 10:41:44] Clean end table blocks:19632
+[2021-09-07 10:41:44] Clean end row_movement:DISABLED
+[2021-09-07 10:41:44] Clean end tab_size:0.15 GB
+[2021-09-07 10:41:44] Clean end objects_invalid:0
+[2021-09-07 10:41:44] Clean summary...
+[2021-09-07 10:41:44] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:41:44] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:41:44] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:41:44] Clean Complete...
+[2021-09-07 10:44:14] ------------------------------------------1/88
+[2021-09-07 10:44:14] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 10:44:14] Clean start...
+[2021-09-07 10:44:14] clean start time:2021-09-07 10:44:14
+[2021-09-07 10:44:14] Clean start num rows:2
+[2021-09-07 10:44:14] Clean start table blocks:1
+[2021-09-07 10:44:14] Clean start row_movement:DISABLED
+[2021-09-07 10:44:14] Clean start tab_size:0.00 GB
+[2021-09-07 10:44:14] Clean start objects_invalid:0
+[2021-09-07 10:44:14] Clean sql running...
+[2021-09-07 10:44:14] Clean table stat gathering...
+[2021-09-07 10:44:15] Clean end...
+[2021-09-07 10:44:15] Clean end time:2021-09-07 10:44:14
+[2021-09-07 10:44:15] Clean end num rows:2
+[2021-09-07 10:44:15] Clean end table blocks:1
+[2021-09-07 10:44:15] Clean end row_movement:DISABLED
+[2021-09-07 10:44:15] Clean end tab_size:0.00 GB
+[2021-09-07 10:44:15] Clean end objects_invalid:0
+[2021-09-07 10:44:15] Clean summary...
+[2021-09-07 10:44:15] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:44:15] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:44:15] [033;1mClean Elapsed: 0 s[0m
+[2021-09-07 10:44:15] Clean Complete...
+[2021-09-07 10:45:43] ------------------------------------------1/88
+[2021-09-07 10:45:43] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 10:45:43] Clean start...
+[2021-09-07 10:45:43] clean start time:2021-09-07 10:45:43
+[2021-09-07 10:45:43] Clean start num rows:2
+[2021-09-07 10:45:43] Clean start table blocks:1
+[2021-09-07 10:45:43] Clean start row_movement:DISABLED
+[2021-09-07 10:45:43] Clean start tab_size:0.00 GB
+[2021-09-07 10:45:43] Clean start objects_invalid:0
+[2021-09-07 10:45:43] Clean sql running...
+[2021-09-07 10:45:43] Clean table stat gathering...
+[2021-09-07 10:45:44] Clean end...
+[2021-09-07 10:45:44] Clean end time:2021-09-07 10:45:44
+[2021-09-07 10:45:44] Clean end num rows:2
+[2021-09-07 10:45:44] Clean end table blocks:1
+[2021-09-07 10:45:44] Clean end row_movement:DISABLED
+[2021-09-07 10:45:44] Clean end tab_size:0.00 GB
+[2021-09-07 10:45:44] Clean end objects_invalid:0
+[2021-09-07 10:45:44] Clean summary...
+[2021-09-07 10:45:44] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:45:44] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:45:44] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:45:44] Clean Complete...
+[2021-09-07 10:45:55] ------------------------------------------2/88
+[2021-09-07 10:45:55] Table Owner :MYTHREE  Table Name :T_OBJECTS
+[2021-09-07 10:45:55] Clean start...
+[2021-09-07 10:45:55] clean start time:2021-09-07 10:45:55
+[2021-09-07 10:45:55] Clean start num rows:1380496
+[2021-09-07 10:45:55] Clean start table blocks:19632
+[2021-09-07 10:45:55] Clean start row_movement:DISABLED
+[2021-09-07 10:45:55] Clean start tab_size:0.15 GB
+[2021-09-07 10:45:55] Clean start objects_invalid:0
+[2021-09-07 10:45:55] Clean sql running...
+[2021-09-07 10:45:55] Clean table stat gathering...
+[2021-09-07 10:45:57] Clean end...
+[2021-09-07 10:45:57] Clean end time:2021-09-07 10:45:57
+[2021-09-07 10:45:57] Clean end num rows:1380496
+[2021-09-07 10:45:57] Clean end table blocks:19632
+[2021-09-07 10:45:57] Clean end row_movement:DISABLED
+[2021-09-07 10:45:57] Clean end tab_size:0.15 GB
+[2021-09-07 10:45:57] Clean end objects_invalid:0
+[2021-09-07 10:45:57] Clean summary...
+[2021-09-07 10:45:57] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:45:57] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:45:57] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 10:45:57] Clean Complete...
+[2021-09-07 10:46:08] ------------------------------------------3/88
+[2021-09-07 10:46:08] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 10:46:08] Clean start...
+[2021-09-07 10:46:08] clean start time:2021-09-07 10:46:08
+[2021-09-07 10:46:08] Clean start num rows:1380496
+[2021-09-07 10:46:08] Clean start table blocks:19896
+[2021-09-07 10:46:08] Clean start row_movement:DISABLED
+[2021-09-07 10:46:09] Clean start tab_size:0.15 GB
+[2021-09-07 10:46:09] Clean start objects_invalid:0
+[2021-09-07 10:46:09] Clean sql running...
+[2021-09-07 10:46:09] Clean table stat gathering...
+[2021-09-07 10:46:11] Clean end...
+[2021-09-07 10:46:11] Clean end time:2021-09-07 10:46:10
+[2021-09-07 10:46:11] Clean end num rows:1380496
+[2021-09-07 10:46:11] Clean end table blocks:19896
+[2021-09-07 10:46:11] Clean end row_movement:DISABLED
+[2021-09-07 10:46:11] Clean end tab_size:0.15 GB
+[2021-09-07 10:46:11] Clean end objects_invalid:0
+[2021-09-07 10:46:11] Clean summary...
+[2021-09-07 10:46:11] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:46:11] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:46:11] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 10:46:11] Clean Complete...
+[2021-09-07 10:46:22] ------------------------------------------4/88
+[2021-09-07 10:46:22] Table Owner :MYTHREE  Table Name :T
+[2021-09-07 10:46:22] Clean start...
+[2021-09-07 10:46:22] clean start time:2021-09-07 10:46:22
+[2021-09-07 10:46:22] Clean start num rows:1380496
+[2021-09-07 10:46:22] Clean start table blocks:19632
+[2021-09-07 10:46:22] Clean start row_movement:DISABLED
+[2021-09-07 10:46:22] Clean start tab_size:0.15 GB
+[2021-09-07 10:46:22] Clean start objects_invalid:0
+[2021-09-07 10:46:22] Clean sql running...
+[2021-09-07 10:46:22] Clean table stat gathering...
+[2021-09-07 10:46:24] Clean end...
+[2021-09-07 10:46:24] Clean end time:2021-09-07 10:46:24
+[2021-09-07 10:46:24] Clean end num rows:1380496
+[2021-09-07 10:46:24] Clean end table blocks:19632
+[2021-09-07 10:46:24] Clean end row_movement:DISABLED
+[2021-09-07 10:46:24] Clean end tab_size:0.15 GB
+[2021-09-07 10:46:24] Clean end objects_invalid:0
+[2021-09-07 10:46:24] Clean summary...
+[2021-09-07 10:46:24] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:46:24] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:46:24] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 10:46:24] Clean Complete...
+[2021-09-07 10:46:39] ------------------------------------------1/88
+[2021-09-07 10:46:39] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 10:46:39] Clean start...
+[2021-09-07 10:46:39] clean start time:2021-09-07 10:46:39
+[2021-09-07 10:46:39] Clean start num rows:2
+[2021-09-07 10:46:39] Clean start table blocks:1
+[2021-09-07 10:46:39] Clean start row_movement:DISABLED
+[2021-09-07 10:46:39] Clean start tab_size:0.00 GB
+[2021-09-07 10:46:39] Clean start objects_invalid:0
+[2021-09-07 10:46:39] Clean sql running...
+[2021-09-07 10:46:39] Clean table stat gathering...
+[2021-09-07 10:46:40] Clean end...
+[2021-09-07 10:46:40] Clean end time:2021-09-07 10:46:40
+[2021-09-07 10:46:40] Clean end num rows:2
+[2021-09-07 10:46:40] Clean end table blocks:1
+[2021-09-07 10:46:40] Clean end row_movement:DISABLED
+[2021-09-07 10:46:40] Clean end tab_size:0.00 GB
+[2021-09-07 10:46:40] Clean end objects_invalid:0
+[2021-09-07 10:46:40] Clean summary...
+[2021-09-07 10:46:40] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:46:40] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:46:40] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 10:46:40] Clean Complete...
+[2021-09-07 10:46:51] ------------------------------------------2/88
+[2021-09-07 10:46:51] Table Owner :MYTHREE  Table Name :T_OBJECTS
+[2021-09-07 10:46:51] Clean start...
+[2021-09-07 10:46:51] clean start time:2021-09-07 10:46:51
+[2021-09-07 10:46:51] Clean start num rows:1380496
+[2021-09-07 10:46:51] Clean start table blocks:19632
+[2021-09-07 10:46:51] Clean start row_movement:DISABLED
+[2021-09-07 10:46:51] Clean start tab_size:0.15 GB
+[2021-09-07 10:46:51] Clean start objects_invalid:0
+[2021-09-07 10:46:51] Clean sql running...
+[2021-09-07 10:46:51] Clean table stat gathering...
+[2021-09-07 10:46:53] Clean end...
+[2021-09-07 10:46:53] Clean end time:2021-09-07 10:46:53
+[2021-09-07 10:46:53] Clean end num rows:1380496
+[2021-09-07 10:46:53] Clean end table blocks:19632
+[2021-09-07 10:46:53] Clean end row_movement:DISABLED
+[2021-09-07 10:46:53] Clean end tab_size:0.15 GB
+[2021-09-07 10:46:53] Clean end objects_invalid:0
+[2021-09-07 10:46:53] Clean summary...
+[2021-09-07 10:46:53] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:46:53] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:46:53] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 10:46:53] Clean Complete...
+[2021-09-07 10:47:04] ------------------------------------------3/88
+[2021-09-07 10:47:04] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 10:47:04] Clean start...
+[2021-09-07 10:47:04] clean start time:2021-09-07 10:47:04
+[2021-09-07 10:47:04] Clean start num rows:1380496
+[2021-09-07 10:47:04] Clean start table blocks:19896
+[2021-09-07 10:47:04] Clean start row_movement:DISABLED
+[2021-09-07 10:47:04] Clean start tab_size:0.15 GB
+[2021-09-07 10:47:04] Clean start objects_invalid:0
+[2021-09-07 10:47:04] Clean sql running...
+[2021-09-07 10:47:05] Clean table stat gathering...
+[2021-09-07 10:47:06] Clean end...
+[2021-09-07 10:47:06] Clean end time:2021-09-07 10:47:06
+[2021-09-07 10:47:06] Clean end num rows:1380496
+[2021-09-07 10:47:06] Clean end table blocks:19896
+[2021-09-07 10:47:06] Clean end row_movement:DISABLED
+[2021-09-07 10:47:06] Clean end tab_size:0.15 GB
+[2021-09-07 10:47:06] Clean end objects_invalid:0
+[2021-09-07 10:47:06] Clean summary...
+[2021-09-07 10:47:06] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 10:47:06] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 10:47:06] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 10:47:06] Clean Complete...
+[2021-09-07 15:14:51] ------------------------------------------1/88
+[2021-09-07 15:14:51] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 15:14:51] Clean start...
+[2021-09-07 15:14:51] clean start time:2021-09-07 15:14:51
+[2021-09-07 15:14:51] Clean start num rows:2
+[2021-09-07 15:14:51] Clean start table blocks:1
+[2021-09-07 15:14:51] Clean start row_movement:DISABLED
+[2021-09-07 15:14:51] Clean start tab_size:0.00 GB
+[2021-09-07 15:14:51] Clean start objects_invalid:0
+[2021-09-07 15:14:51] Clean sql running...
+[2021-09-07 15:14:51] Clean table stat gathering...
+[2021-09-07 15:14:51] Clean end...
+[2021-09-07 15:14:51] Clean end time:2021-09-07 15:14:51
+[2021-09-07 15:14:51] Clean end num rows:2
+[2021-09-07 15:14:51] Clean end table blocks:1
+[2021-09-07 15:14:51] Clean end row_movement:DISABLED
+[2021-09-07 15:14:51] Clean end tab_size:0.00 GB
+[2021-09-07 15:14:51] Clean end objects_invalid:0
+[2021-09-07 15:14:51] Clean summary...
+[2021-09-07 15:14:51] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 15:14:51] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 15:14:51] [033;1mClean Elapsed: 0 s[0m
+[2021-09-07 15:14:51] Clean Complete...
+[2021-09-07 15:15:19] ------------------------------------------1/88
+[2021-09-07 15:15:19] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 15:15:19] Clean start...
+[2021-09-07 15:15:19] clean start time:2021-09-07 15:15:19
+[2021-09-07 15:15:19] Clean start num rows:2
+[2021-09-07 15:15:19] Clean start table blocks:1
+[2021-09-07 15:15:19] Clean start row_movement:DISABLED
+[2021-09-07 15:15:19] Clean start tab_size:0.00 GB
+[2021-09-07 15:15:19] Clean start objects_invalid:0
+[2021-09-07 15:15:19] Clean sql running...
+[2021-09-07 15:15:19] Clean table stat gathering...
+[2021-09-07 15:15:19] Clean end...
+[2021-09-07 15:15:19] Clean end time:2021-09-07 15:15:19
+[2021-09-07 15:15:19] Clean end num rows:2
+[2021-09-07 15:15:19] Clean end table blocks:1
+[2021-09-07 15:15:19] Clean end row_movement:DISABLED
+[2021-09-07 15:15:19] Clean end tab_size:0.00 GB
+[2021-09-07 15:15:19] Clean end objects_invalid:0
+[2021-09-07 15:15:19] Clean summary...
+[2021-09-07 15:15:19] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 15:15:19] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 15:15:19] [033;1mClean Elapsed: 0 s[0m
+[2021-09-07 15:15:19] Clean Complete...
+[2021-09-07 15:17:17] ------------------------------------------1/88
+[2021-09-07 15:17:17] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 15:17:17] Clean start...
+[2021-09-07 15:17:18] clean start time:2021-09-07 15:17:17
+[2021-09-07 15:17:18] Clean start num rows:2
+[2021-09-07 15:17:18] Clean start table blocks:1
+[2021-09-07 15:17:18] Clean start row_movement:DISABLED
+[2021-09-07 15:17:18] Clean start tab_size:0.00 GB
+[2021-09-07 15:17:18] Clean start objects_invalid:0
+[2021-09-07 15:17:18] Clean sql running...
+[2021-09-07 15:17:18] Clean table stat gathering...
+[2021-09-07 15:17:18] Clean end...
+[2021-09-07 15:17:18] Clean end time:2021-09-07 15:17:18
+[2021-09-07 15:17:18] Clean end num rows:2
+[2021-09-07 15:17:18] Clean end table blocks:1
+[2021-09-07 15:17:18] Clean end row_movement:DISABLED
+[2021-09-07 15:17:18] Clean end tab_size:0.00 GB
+[2021-09-07 15:17:18] Clean end objects_invalid:0
+[2021-09-07 15:17:18] Clean summary...
+[2021-09-07 15:17:18] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 15:17:18] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 15:17:18] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 15:17:18] Clean Complete...
+[2021-09-07 15:24:23] ------------------------------------------1/88
+[2021-09-07 15:24:23] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 15:24:24] Clean start...
+[2021-09-07 15:24:24] clean start time:2021-09-07 15:24:23
+[2021-09-07 15:24:24] Clean start num rows:2
+[2021-09-07 15:24:24] Clean start table blocks:1
+[2021-09-07 15:24:24] Clean start row_movement:DISABLED
+[2021-09-07 15:24:24] Clean start tab_size:0.00 GB
+[2021-09-07 15:24:24] Clean start objects_invalid:0
+[2021-09-07 15:24:24] Clean sql running...
+[2021-09-07 15:24:24] Clean table stat gathering...
+[2021-09-07 15:24:24] Clean end...
+[2021-09-07 15:24:24] Clean end time:2021-09-07 15:24:24
+[2021-09-07 15:24:24] Clean end num rows:2
+[2021-09-07 15:24:24] Clean end table blocks:1
+[2021-09-07 15:24:24] Clean end row_movement:DISABLED
+[2021-09-07 15:24:24] Clean end tab_size:0.00 GB
+[2021-09-07 15:24:24] Clean end objects_invalid:0
+[2021-09-07 15:24:24] Clean summary...
+[2021-09-07 15:24:24] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 15:24:24] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 15:24:24] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 15:24:24] Clean Complete...
+[2021-09-07 15:26:55] ------------------------------------------1/88
+[2021-09-07 15:26:55] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 15:26:55] Clean start...
+[2021-09-07 15:26:55] clean start time:2021-09-07 15:26:55
+[2021-09-07 15:26:55] Clean start num rows:2
+[2021-09-07 15:26:55] Clean start table blocks:1
+[2021-09-07 15:26:55] Clean start row_movement:DISABLED
+[2021-09-07 15:26:55] Clean start tab_size:0.00 GB
+[2021-09-07 15:26:55] Clean start objects_invalid:0
+[2021-09-07 15:26:55] Clean sql running...
+[2021-09-07 15:26:55] Clean table stat gathering...
+[2021-09-07 15:26:56] Clean end...
+[2021-09-07 15:26:56] Clean end time:2021-09-07 15:26:56
+[2021-09-07 15:26:56] Clean end num rows:2
+[2021-09-07 15:26:56] Clean end table blocks:1
+[2021-09-07 15:26:56] Clean end row_movement:DISABLED
+[2021-09-07 15:26:56] Clean end tab_size:0.00 GB
+[2021-09-07 15:26:56] Clean end objects_invalid:0
+[2021-09-07 15:26:56] Clean summary...
+[2021-09-07 15:26:56] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 15:26:56] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 15:26:56] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 15:26:56] Clean Complete...
+[2021-09-07 15:27:07] ------------------------------------------2/88
+[2021-09-07 15:27:07] Table Owner :MYTHREE  Table Name :T_OBJECTS
+[2021-09-07 15:27:07] Clean start...
+[2021-09-07 15:27:07] clean start time:2021-09-07 15:27:07
+[2021-09-07 15:27:07] Clean start num rows:1380496
+[2021-09-07 15:27:07] Clean start table blocks:19632
+[2021-09-07 15:27:07] Clean start row_movement:DISABLED
+[2021-09-07 15:27:07] Clean start tab_size:0.15 GB
+[2021-09-07 15:27:07] Clean start objects_invalid:0
+[2021-09-07 15:27:07] Clean sql running...
+[2021-09-07 15:27:07] Clean table stat gathering...
+[2021-09-07 15:27:10] Clean end...
+[2021-09-07 15:27:10] Clean end time:2021-09-07 15:27:10
+[2021-09-07 15:27:10] Clean end num rows:1380496
+[2021-09-07 15:27:10] Clean end table blocks:19632
+[2021-09-07 15:27:10] Clean end row_movement:DISABLED
+[2021-09-07 15:27:10] Clean end tab_size:0.15 GB
+[2021-09-07 15:27:10] Clean end objects_invalid:0
+[2021-09-07 15:27:11] Clean summary...
+[2021-09-07 15:27:11] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 15:27:11] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 15:27:11] [033;1mClean Elapsed: 3 s[0m
+[2021-09-07 15:27:11] Clean Complete...
+[2021-09-07 15:27:22] ------------------------------------------3/88
+[2021-09-07 15:27:22] Table Owner :MYTHREE  Table Name :T_BAK
+[2021-09-07 15:27:22] Clean start...
+[2021-09-07 15:27:22] clean start time:2021-09-07 15:27:22
+[2021-09-07 15:27:22] Clean start num rows:1380496
+[2021-09-07 15:27:22] Clean start table blocks:19896
+[2021-09-07 15:27:22] Clean start row_movement:DISABLED
+[2021-09-07 15:27:22] Clean start tab_size:0.15 GB
+[2021-09-07 15:27:22] Clean start objects_invalid:0
+[2021-09-07 15:27:22] Clean sql running...
+[2021-09-07 15:27:22] Clean table stat gathering...
+[2021-09-07 15:27:24] Clean end...
+[2021-09-07 15:27:24] Clean end time:2021-09-07 15:27:24
+[2021-09-07 15:27:24] Clean end num rows:1380496
+[2021-09-07 15:27:24] Clean end table blocks:19896
+[2021-09-07 15:27:24] Clean end row_movement:DISABLED
+[2021-09-07 15:27:24] Clean end tab_size:0.15 GB
+[2021-09-07 15:27:24] Clean end objects_invalid:0
+[2021-09-07 15:27:24] Clean summary...
+[2021-09-07 15:27:24] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 15:27:24] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 15:27:24] [033;1mClean Elapsed: 2 s[0m
+[2021-09-07 15:27:24] Clean Complete...
+[2021-09-07 15:29:20] ------------------------------------------1/88
+[2021-09-07 15:29:20] Table Owner :MYTHREE  Table Name :T_3
+[2021-09-07 15:29:21] Clean start...
+[2021-09-07 15:29:21] clean start time:2021-09-07 15:29:20
+[2021-09-07 15:29:21] Clean start num rows:2
+[2021-09-07 15:29:21] Clean start table blocks:1
+[2021-09-07 15:29:21] Clean start row_movement:DISABLED
+[2021-09-07 15:29:21] Clean start tab_size:0.00 GB
+[2021-09-07 15:29:21] Clean start objects_invalid:0
+[2021-09-07 15:29:21] Clean sql running...
+[2021-09-07 15:29:21] Clean table stat gathering...
+[2021-09-07 15:29:21] Clean end...
+[2021-09-07 15:29:21] Clean end time:2021-09-07 15:29:21
+[2021-09-07 15:29:21] Clean end num rows:2
+[2021-09-07 15:29:21] Clean end table blocks:1
+[2021-09-07 15:29:21] Clean end row_movement:DISABLED
+[2021-09-07 15:29:21] Clean end tab_size:0.00 GB
+[2021-09-07 15:29:21] Clean end objects_invalid:0
+[2021-09-07 15:29:21] Clean summary...
+[2021-09-07 15:29:21] [033;1mClean generate new invaild_object: 0[0m
+[2021-09-07 15:29:21] [033;1mClean Table Size: 0 GB[0m
+[2021-09-07 15:29:21] [033;1mClean Elapsed: 1 s[0m
+[2021-09-07 15:29:21] Clean Complete...
