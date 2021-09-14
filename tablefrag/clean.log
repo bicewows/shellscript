@@ -1,3 +1,5 @@
+111111
+
 [2021-09-03 15:03:09] ------------------------------------------1/88
 [2021-09-03 15:03:09] Table Owner :MYTHREE  Table Name :T_3
 [2021-09-03 15:03:09] Clean start...
@@ -5,7 +7,8 @@
 [2021-09-03 15:03:09] Clean start num rows:2
 [2021-09-03 15:03:09] Clean start table blocks:1
 [2021-09-03 15:03:09] Clean start row_movement:DISABLED
-[2021-09-03 15:03:09] Clean start tab_size:0.00 GB
+[2021-09-03 15:03:09] Clean start tab_size:0.0
+0 GB
 [2021-09-03 15:03:09] Clean start objects_invalid:0
 [2021-09-03 15:03:09] Clean sql running...
 [2021-09-03 15:03:09] Clean table stat gathering...
