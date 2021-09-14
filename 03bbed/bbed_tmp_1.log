@@ -1,0 +1,20 @@
+spawn bbed parfile=/home/oracle/bbed/par.txt
+Password: 
+
+BBED: Release 2.0.0.0.0 - Limited Production on Fri Aug 27 12:35:46 2021
+
+Copyright (c) 1982, 2011, Oracle and/or its affiliates.  All rights reserved.
+
+************* !!! For Oracle Internal Use only !!! ***************
+
+BBED> set dba 1,94720
+	DBA            	0x00417200 (4289024 1,94720)
+
+BBED> map /v
+ File: /oradata/three/system01.dbf (1)
+ Block: 94720                                 Dba:0x00417200
+------------------------------------------------------------
+BBED-00400: invalid blocktype (00)
+
+
+BBED> 

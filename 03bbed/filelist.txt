@@ -1,0 +1,5 @@
+1       /oradata/three/system01.dbf     775946240
+2       /oradata/three/sysaux01.dbf     807403520
+3       /oradata/three/undotbs01.dbf    47185920
+4       /oradata/three/users01.dbf      5242880
+5       /oradata/three/zsdba01.dbf      104857600

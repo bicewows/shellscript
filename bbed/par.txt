@@ -1,0 +1,3 @@
+blocksize=8192
+listfile=/home/oracle//script/bbed/filelist.txt
+mode=edit

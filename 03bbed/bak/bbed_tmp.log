@@ -1,0 +1,61 @@
+spawn bbed parfile=/home/oracle/bbed/par.txt
+Password: 
+
+BBED: Release 2.0.0.0.0 - Limited Production on Fri Aug 27 10:41:15 2021
+
+Copyright (c) 1982, 2011, Oracle and/or its affiliates.  All rights reserved.
+
+************* !!! For Oracle Internal Use only !!! ***************
+
+BBED> set dba 2,98560
+BBED-00205: illegal or out of range DBA (File 2, Block 98560)
+
+
+BBED> map /v
+ File: /oradata/three/system01.dbf (1)
+ Block: 1                                     Dba:0x00400001
+------------------------------------------------------------
+ Data File Header
+
+ struct kcvfh, 860 bytes                    @0       
+    struct kcvfhbfh, 20 bytes               @0       
+    struct kcvfhhdr, 76 bytes               @20      
+    ub4 kcvfhrdb                            @96      
+    struct kcvfhcrs, 8 bytes                @100     
+    ub4 kcvfhcrt                            @108     
+    ub4 kcvfhrlc                            @112     
+    struct kcvfhrls, 8 bytes                @116     
+    ub4 kcvfhbti                            @124     
+    struct kcvfhbsc, 8 bytes                @128     
+    ub2 kcvfhbth                            @136     
+    ub2 kcvfhsta                            @138     
+    struct kcvfhckp, 36 bytes               @484     
+    ub4 kcvfhcpc                            @140     
+    ub4 kcvfhrts                            @144     
+    ub4 kcvfhccc                            @148     
+    struct kcvfhbcp, 36 bytes               @152     
+    ub4 kcvfhbhz                            @312     
+    struct kcvfhxcd, 16 bytes               @316     
+    sword kcvfhtsn                          @332     
+    ub2 kcvfhtln                            @336     
+    text kcvfhtnm[30]                       @338     
+    ub4 kcvfhrfn                            @368     
+    struct kcvfhrfs, 8 bytes                @372     
+    ub4 kcvfhrft                            @380     
+    struct kcvfhafs, 8 bytes                @384     
+    ub4 kcvfhbbc                            @392     
+    ub4 kcvfhncb                            @396     
+    ub4 kcvfhmcb                            @400     
+    ub4 kcvfhlcb                            @404     
+    ub4 kcvfhbcs                            @408     
+    ub2 kcvfhofb                            @412     
+    ub2 kcvfhnfb                            @414     
+    ub4 kcvfhprc                            @416     
+    struct kcvfhprs, 8 bytes                @420     
+    struct kcvfhprfs, 8 bytes               @428     
+    ub4 kcvfhtrt                            @444     
+
+ ub4 tailchk                                @8188    
+
+
+BBED> 
